@@ -1,0 +1,2 @@
+rootProject.name='MyAppForSiteKit'
+include ':app'
