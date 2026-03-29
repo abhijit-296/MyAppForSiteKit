@@ -16,7 +16,7 @@ import com.huawei.hms.site.api.model.SearchStatus;
 import com.huawei.hms.site.api.model.Site;
 import com.huawei.hms.site.api.model.TextSearchRequest;
 import com.huawei.hms.site.api.model.TextSearchResponse;
-
+///comment from MainActivity
 public class MainActivity extends AppCompatActivity {
 
     private static final String TAG = "MainActivity";
